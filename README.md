@@ -1,4 +1,9 @@
+
 # YouTube RAG Assistant
+
+<p align="center">
+  <img src="icons\icon128.PNG" alt="YouTube RAG Assistant Logo" width="100"/>
+</p>
 
 **YouTube RAG Assistant** is a Chrome extension that lets you **chat with any YouTube video**. It uses **Retrieval-Augmented Generation (RAG)** to understand the transcript of the video and answer your questions or summarize the content — right inside your browser.
 
