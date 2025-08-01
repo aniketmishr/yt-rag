@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+youtube-transcript-api
+langchain-community
+google-ai-generativelanguage==0.6.15
+langchain-google-genai
+tiktoken
+langchain-chroma>=0.1.2
+python-dotenv
