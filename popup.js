@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   statusDiv.innerHTML = `
     <div class="welcome">
       <img src="icons/icon128.png" alt="App Icon" class="welcome-icon" />
-      <h3>🎬 Welcome to <strong>YouTube RAG Assistant</strong>!</h3>
+      <h3>🎬 Welcome to <strong>SmartAsk for YouTube</strong>!</h3>
       <p>This extension answers your questions using the transcript of any YouTube video you're watching.</p>
       <p>To get started, open your favorite video and click this extension again.</p>
     </div>

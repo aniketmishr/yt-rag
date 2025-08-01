@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "YouTube RAG Assistant",
+  "name": "SmartAsk for YouTube",
   "description": "Ask questions about the current YouTube video using RAG.",
   "version": "1.0",
   "permissions": ["activeTab", "scripting"],

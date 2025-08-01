@@ -10,7 +10,7 @@ app = FastAPI()
 # Enable CORS to allow requests from the extension
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # For now, allow all. You can limit to specific origins later.
+    allow_origins=["*"],  
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

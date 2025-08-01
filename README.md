@@ -1,11 +1,11 @@
 
-# YouTube RAG Assistant
+# SmartAsk for YouTube
 
 <p align="center">
   <img src="icons\icon128.PNG" alt="YouTube RAG Assistant Logo" width="100"/>
 </p>
 
-**YouTube RAG Assistant** is a Chrome extension that lets you **chat with any YouTube video**. It uses **Retrieval-Augmented Generation (RAG)** to understand the transcript of the video and answer your questions or summarize the content — right inside your browser.
+**SmartAsk for YouTube** is a Chrome extension that lets you **chat with any YouTube video**. It uses **Retrieval-Augmented Generation (RAG)** to understand the transcript of the video and answer your questions or summarize the content — right inside your browser.
 
 ---
 
@@ -66,7 +66,7 @@ This will start your FastAPI server at `http://localhost:8000`
 ## ✅ Usage
 
 1. Open any YouTube video (non-Shorts).
-2. Click the **YouTube RAG Assistant** icon in your extensions bar.
+2. Click the **SmartAsk for YouTube** icon in your extensions bar.
 3. Start chatting — ask for a summary or dive into specific topics discussed in the video.
 
 ---
